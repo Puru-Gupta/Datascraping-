@@ -33,6 +33,7 @@ Developed and deployed **custom web scrapers** to extract data from multiple gov
 - **Final data was stored in an MS SQL database** with **master mapping** and **delivered to the client**.  
 
 ---
+![Selenium_Web_Scaping1 (1)](https://github.com/user-attachments/assets/175a1c16-aaac-4335-97d4-86a0355feeeb)
 
 
 
