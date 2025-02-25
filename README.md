@@ -32,4 +32,3 @@ Developed and deployed **custom web scrapers** to extract data from multiple gov
 
 ---
 
-This documentation is clean, well-structured, and ready for Git. Let me know if you need any modifications! 🚀  
