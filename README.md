@@ -1,4 +1,4 @@
-# Web Scraping & Data Processing Project
+# Web Scraping & Data Processing Project (USAID)
 
 ## Overview  
 Developed and deployed **custom web scrapers** to extract data from multiple government portals using **Python, Selenium, and BeautifulSoup**. The scrapers handled JavaScript-driven content, bypassed CAPTCHA codes using **OCR (Python-tesseract)**, and processed approximately **30 million rows** of data. The extracted data was structured, stored in an **MS SQL database**, and delivered to the client.
