@@ -33,3 +33,6 @@ Developed and deployed **custom web scrapers** to extract data from multiple gov
 - **Final data was stored in an MS SQL database** with **master mapping** and **delivered to the client**.  
 
 ---
+![Access to Financial Instrument](https://github.com/user-attachments/assets/2716d9ef-7044-4a05-a896-398472173552)
+![Asset Ownership by Women in India](https://github.com/user-attachments/assets/fb9c30ea-e9a9-4038-a8b8-651cae43e12f)
+
